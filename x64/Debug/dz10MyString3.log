@@ -1,0 +1,7 @@
+﻿  main.cpp
+  MyString.cpp
+C:\Users\sofia\source\repos\dz10MyString3\dz10MyString3\MyString.cpp(28,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\dz10MyString3\dz10MyString3\MyString.cpp(69,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\sofia\source\repos\dz10MyString3\dz10MyString3\MyString.cpp(196,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  dz10MyString3.vcxproj -> C:\Users\sofia\source\repos\dz10MyString3\x64\Debug\dz10MyString3.exe
